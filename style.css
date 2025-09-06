@@ -5,7 +5,11 @@ body{
 	color: #D8FF00;
 	background: #000000;
 }
-/*classes*/
+/*ids*/
 .header{
 	text-align: center;
+}
+.banner {
+	width: 100vw;
+	height: 300px;
 }

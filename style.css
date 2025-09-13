@@ -2,14 +2,39 @@
 /*tags*/
 body{
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	color: #FFFFFF;
-	background: #000000;
+	color: #33343a;
+	background: #ddddee;
+	  margin: 0;     
+ 	 padding: 0; 
 }
-/*classesesesseseesses*/
+h1{
+	color: #3c69ff;
+	margin-left: auto;
+	margin-top: 40vh;
+	font-size: 60pt;
+	 font-family: "Open Sans", sans-serif;
+}
+/*class*/
 .header{
 	text-align: center;
+	line-height: 0.2;
 }
 .banner {
 	width: 100vw;
 	height: 300px;
+}
+.logo{
+	padding-left: 30vw;
+}
+/* id */
+#logotext{
+	clear: both;
+	font-weight: bold;
+	color: #4b4c57;
+	padding-left: 250px;
+}
+#black{
+	background-color: #33343a;
+	scale: 100%;
+	line-height: 0.1;
 }
